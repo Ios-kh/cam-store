@@ -1,1 +1,1 @@
-# cam-store.com
+# cam-stor.github.com
