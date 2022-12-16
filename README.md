@@ -1,1 +1,1 @@
-# cam-store-kh
+# cam-store.com
